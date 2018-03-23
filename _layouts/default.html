@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
+  {% include head.html %}
+  <body class="{{ page.layout }}">
+    <form id='quote' action="https://formspree.io/bartoszwais@gmail.com" method="POST">
+<h2>We buy Chinese antiques. <strong>Get free quote.</strong></h2>
+<img src="/assets/images/pile-of-cash.png" alt="We pay cash." />
+        <label for='name'>Your Name:</label>
+        <input type="text" name="name">
+        <label for='_replyto'>Your Email:</label>
+        <input type="email" name="_replyto">
+        <label for='phone'>Your Phone:</label>
+        <input type="text" name="phone">
+        <label for='content'>Your antique's images:</label>
+        <input type="hidden" role="uploadcare-uploader" name="content"
+       data-images-only="true"
+       data-multiple="true" />
+        <label for='message'>Your message:</label>
+        <textarea name="message"></textarea>
+        <input type="submit" value="Get Free Quote">
+    </form> 
+    {% include header.html %}
+    <section id="content">
+     {{ content }}
+      </section>
+      <a href="#start" id="init">
+          <img src="{{ site.baseurl }}{{ site.logo }}" />
+      </a>
+
+    {% include analytics.html %}
+  </body>
+</html>

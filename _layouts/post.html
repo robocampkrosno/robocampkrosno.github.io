@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<ul id="results-container"></ul>
+<article class='{{ page.maker | replace: " ","" }} {{ page.title | replace: " ","" }}'>
+        <a href="{{ site.baseurl }}{{ page.url }}">
+            <img src="/assets/images/{{ page.maker | replace: " ", "_" }}/{{ page.image }}" width='300' />
+        </a>
+    <section class='info'>
+        <h1><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></h1>
+        <ul>
+            <li><strong>maker:</strong> {{ page.maker }}</li>
+            <li><strong>color:</strong> {{ page.color }}</li>
+            <li><strong>price:</strong> {{ page.price }}</li>
+        </ul>
+        {% include paypal_buy.html %} 
+    </section>
+</article>
+{% include footer.html %}
