@@ -43,6 +43,10 @@ table {
 
 /* end of reset css */
 
+a {
+    color: #1e73be;
+    text-decoration:none;
+}
 html {
     background-color: #feb240;
 }
@@ -206,4 +210,33 @@ nav {
 #content {
     width: 100%;
     clear: both;
+}
+
+footer {
+    border-top:3px solid #1e73be;
+    background-color: #333;
+    margin-top: 80px;
+    color: #777;
+    section {
+        width: 33.3%;
+        float:left;
+        & + a {
+            width: 200px;
+            margin: 0 auto;
+            display: block;
+        }
+        h2 {
+            border-bottom: 2px solid #1e73be;
+            padding-bottom: 4px;
+            color: #e0e0e0;
+            font-size: 18px;
+            float:left;
+            margin: 23px 28px;
+        }
+        ul {
+            width: 100%;
+            clear: both;
+            margin-left: 28px;
+        }
+    }
 }
