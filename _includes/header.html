@@ -1,15 +1,16 @@
 <header>
     <a href="/">
-      <img src="{{ site.baseurl }}{{ site.logo }}" width='200' />
+        <img src="{{ site.baseurl }}{{ site.logo }}" width='200' />
     </a>
-  <nav>
-      <ul>
-          <li class="strona_główna"><a href="{{ site.baseurl }}/">Strona główna</a></li>
+    <nav>
+        <ul>
+            <li class="strona_główna"><a href="{{ site.baseurl }}/">Strona główna</a></li>
           {% for my_page in site.pages %}
             {% if my_page.title %}
             <li class="{{ my_page.title | downcase | replace:' ','_' }}" ><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
             {% endif %}
           {% endfor %}
-  </nav>
+        </ul>
+    </nav>
 </header>
 
