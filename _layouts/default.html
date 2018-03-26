@@ -1,32 +1,49 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
   {% include head.html %}
-  <body class="{{ page.layout }}">
-    <form id='quote' action="https://formspree.io/bartoszwais@gmail.com" method="POST">
-<h2>We buy Chinese antiques. <strong>Get free quote.</strong></h2>
-<img src="/assets/images/pile-of-cash.png" alt="We pay cash." />
-        <label for='name'>Your Name:</label>
-        <input type="text" name="name">
-        <label for='_replyto'>Your Email:</label>
-        <input type="email" name="_replyto">
-        <label for='phone'>Your Phone:</label>
-        <input type="text" name="phone">
-        <label for='content'>Your antique's images:</label>
-        <input type="hidden" role="uploadcare-uploader" name="content"
-       data-images-only="true"
-       data-multiple="true" />
-        <label for='message'>Your message:</label>
-        <textarea name="message"></textarea>
-        <input type="submit" value="Get Free Quote">
-    </form> 
+  <body class="page {{ page.layout }}">
     {% include header.html %}
+    <section id="slideshow">
+        <img src="/assets/images/slider-nauka-programowania.jpg" alt="Nauka programowania" />
+        <img src="/assets/images/slider-promocja-wrzesien.jpg" alt="Promocja wrzesień" />
+        <img src="/assets/images/slider-warsztaty-edukacyjne.jpg" alt="Warsztaty edukacyjne" />
+    </section>
+    <section id='info'>
+        <a href="#">zobacz szczegóły</a>
+        <h2>Trwają zapisy na zajęcia pozalekcyjne z robotyki LEGO</h2>
+        <p>Zapraszamy do rezerwacji miejsc na zajęciach z robotyki LEGO i tworzenia gier komputerowych w środowicku Scratch</p>
+        <h2></h2>
+    </section>
+    <section id="wybrana_oferta">
+        <section id="sala_zabaw">
+            <h2>sala zabaw Lego Klub</h2>
+            <p>Lubicie budować konstrukcje z klocków? Czekają na Was tysiące klocków LEGO, z których można tworzyć najróżniejsze budowle.</p>
+            <img src="/assets/images/sala_zabaw.jpg" alt="Sala zabaw" />
+        </section>
+        <section id="warsztaty">
+            <h2>warsztaty z robotyki dla szkół</h2>
+            <p>Podczas warsztatów dzieci w sposób niekonvencjonalny zapoznają się z wybranym przez nauczyciela tematem lekcji.</p>
+            <img src="/assets/images/warsztaty.jpg" alt="Warsztaty z robotyki dla szkół" />
+        </section>
+        <section id="zajęcia_pozalekcyjne">
+            <h2>zajęcia pozalekcyjne z robotyki LEGO</h2>
+            <p>Nauka przez zabawę jest przyjemna i skuteczna, a co najważniejsze pokazuje, że zdobywanie wiedzy to pasjonująca praygoda!</p>
+            <img src="/assets/images/zajecia_pozalekcyjne.jpg" alt="Zajęcia pozalekcyjne z robotyki LEGO" />
+        </section>
+        <section id="imprezy">
+            <h2>urodziny, imprezy integracyjne</h2>
+            <p>Wyścigi robotów czy tworzenie dzikich zwierząt? Urodziny w Akademii robotyki LEGO zapewnią niezapomniane wrażenia dla jubilatów i ich gości.</p>
+            <img src="/assets/images/imprezy.jpg" alt="Urodziny, imprezy integracyjne" />
+        </section>
+    </section>
     <section id="content">
      {{ content }}
       </section>
-      <a href="#start" id="init">
-          <img src="{{ site.baseurl }}{{ site.logo }}" />
+      <a href="/">
+          <img src="{{ site.baseurl }}{{ site.logo }}" width='200' height='81' />
       </a>
 
+    <script src="/js/init.js"></script>
     {% include analytics.html %}
   </body>
 </html>

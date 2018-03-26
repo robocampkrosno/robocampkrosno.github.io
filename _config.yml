@@ -6,22 +6,22 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Chinese Antique Buyers +48 515 777 883 
+title: Akademia Robotyki Lego - Robocamp Krosno  +48 515 777 883 
 email: not_yet@email.com
 description: >
-    Get FREE quote. Chinese Antique Buyers, We buy Asian antiques. 
-logo: "/assets/images/logo.png"
+    Akademia Robotyki Lego. Robocamp Krosno. 
+logo: "/assets/images/robocamp_logo.png"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://chineseantiquebuyers.github.io" # the base hostname & protocol for your site
 paginate:	9 # The number of posts to show per page on your homepage
 paginate_path: "/collectionN.:num/"
 
-name: 'Chinese Antique Buyers'
+name: 'Robocamp Krosno'
 bio: >
-    chineseantiquebuyers.github.io, we buy Asian antiques. 
+    Akademia Robotyki Lego. Robocamp Krosno 
 author_image: "/assets/images/author.jpg"
-twitter_username: chineseantiquebuyers
-github_username:  chineseantiquebuyers
+twitter_username: robocampkrosno
+github_username:  robocampkrosno
 
 # Google Analytics
 analytics_id: "UA-84736243-X"

@@ -1,27 +1,15 @@
 <header>
-    <a href="#init" id="start">
-        <img src="{{ site.baseurl }}{{ site.logo }}" />
+    <a href="/">
+      <img src="{{ site.baseurl }}{{ site.logo }}" width='200' />
     </a>
   <nav>
       <ul>
-          <li><a href="{{ site.baseurl }}/">Home</a></li>
+          <li class="strona_główna"><a href="{{ site.baseurl }}/">Strona główna</a></li>
           {% for my_page in site.pages %}
             {% if my_page.title %}
-            <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+            <li class="{{ my_page.title | downcase | replace:' ','_' }}" ><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
             {% endif %}
           {% endfor %}
   </nav>
-    <section>
-        <h1>{{ site.title }}</h1>
-        <h2>{{ site.description }}</h2>
-    </section>
-  <!-- Html Elements for Search -->
-    <div id="search-container">
-      <input type="text" id="search-input" placeholder="Search for products">
-    </div>
-  
-
-
-<!-- Configuration -->
 </header>
 
