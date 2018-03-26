@@ -52,8 +52,13 @@ layout: compress
                 <li>e-mail: <a href='mailto:kontakt@robocamp.radom.pl'>kontakt@robocamp.radom.pl</a></li>
             </ul>
         </section>
-        <section>
+        <section id="aktualności">
             <h2>Aktualności</h2>
+            <ul>
+            {% for post in paginator.posts %}
+                <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
+            </ul>
         </section>
         <section>
             <h2>Właściciel Akademii</h2>
