@@ -38,7 +38,7 @@ sass:
 
 plugins:
   - jekyll-paginate
-  - jekyll-minifier
+    # - jekyll-minifier
 
-jekyll-minifier:
-  exclude: 'atom.xml'
+    #jekyll-minifier:
+    #exclude: 'atom.xml'
