@@ -36,5 +36,9 @@ kramdown:
 sass:
     sass_dir: css
 
-gems:
+plugins:
   - jekyll-paginate
+  - jekyll-minifier
+
+jekyll-minifier:
+  exclude: 'atom.xml'

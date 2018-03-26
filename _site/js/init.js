@@ -1,1 +1,1 @@
-$('#slideshow').cycle({"auto-height": "calc"});
+$("#slideshow").cycle({"auto-height":"calc"});
