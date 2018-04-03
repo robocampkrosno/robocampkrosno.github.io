@@ -64,6 +64,60 @@ body {
     margin-top: 10px;
     margin-bottom: 30px;
 }
+.subpage, .post {
+    #content {
+        overflow: hidden;
+        h1 {
+            background-color: #1e73be;
+            color: #FFFFFF;
+            font-size: 27px;
+            padding: 17px 28px;
+            line-height: 36px;
+        }
+        main {
+            padding: 17px 28px;
+            float: left;
+            width: 65.64%;
+            box-sizing:border-box;
+            p {
+                margin-bottom: 1rem;
+                font-size: 1rem;
+                color: #777;
+            }
+        }
+        aside {
+            float: right;
+            width: 31.28%;
+            box-sizing: border-box;
+            padding-right: 28px;
+            h2 {
+                border-bottom: 2px solid #1e73be;
+                padding-bottom: 4px;
+                color: #2C2C2C;
+                font-size: 18px;
+                float: left;
+                margin: 23px 28px 23px 0;
+            }
+            ul {
+                clear:both;
+                li {
+                    margin-bottom: 4px;
+                    line-height: 2;
+                    border-bottom: 1px dotted #777;
+                    list-style-type: square;
+                    list-style-position: inside;
+                    color: #909294;
+                    a {
+                        color: #909294;
+                        &:hover {
+                            color: #1e73be;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
 
 header {
     padding-top:10px;
@@ -245,7 +299,7 @@ footer {
             color:#1e73be;
         }
     }
-    #aktualności ul {
+    .aktualności ul {
         width:80%;
         li {
             margin-bottom: 4px;

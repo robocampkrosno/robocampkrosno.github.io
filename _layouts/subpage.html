@@ -4,23 +4,22 @@ layout: compress
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#">
   {% include head.html %}
-  <body class="page {{ page.layout }}">
+  <body class="page {{ page.layout }} {{ page.title | downcase | replace: '-','' | replace: ' ','' }}">
     {% include header.html %}
-    <section id="slideshow">
-        <img src="/assets/images/slider-nauka-programowania.jpg" alt="Nauka programowania" />
-        <img src="/assets/images/slider-promocja-wrzesien.jpg" alt="Promocja wrzesień" />
-        <img src="/assets/images/slider-warsztaty-edukacyjne.jpg" alt="Warsztaty edukacyjne" />
-    </section>
-    <section id='info'>
-        <a href="#">zobacz szczegóły</a>
-        <h2>Trwają zapisy na zajęcia pozalekcyjne z robotyki LEGO</h2>
-        <p>Zapraszamy do rezerwacji miejsc na zajęciach z robotyki LEGO i tworzenia gier komputerowych w środowicku Scratch</p>
-        <h2></h2>
-    </section>
-    <section id="content">
-      <h1>{{ page.title }}</h1>
-      {{content}}
-    </section>
+    <article id="content">
+        <h1>{{ page.title }}</h1>
+        <main role="main">
+          {{ content }}
+        </main>
+        <aside class="aktualności">
+            <h2>Aktualności</h2>
+            <ul>
+            {% for post in site.posts limit:21 %}
+                <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
+            </ul>
+        </aside>
+    </article>
     <footer>
         <section>
             <h2>Akademia robotyki LEGO</h2>
@@ -31,7 +30,7 @@ layout: compress
                 <li>e-mail: <a href='mailto:kontakt@robocamp.radom.pl'>kontakt@robocamp.radom.pl</a></li>
             </ul>
         </section>
-        <section id="aktualności">
+        <section class="aktualności">
             <h2>Aktualności</h2>
             <ul>
             {% for post in site.posts limit:5 %}

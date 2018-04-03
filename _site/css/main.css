@@ -57,6 +57,49 @@ body {
   margin-top: 10px;
   margin-bottom: 30px; }
 
+.subpage #content, .post #content {
+  overflow: hidden; }
+  .subpage #content h1, .post #content h1 {
+    background-color: #1e73be;
+    color: #FFFFFF;
+    font-size: 27px;
+    padding: 17px 28px;
+    line-height: 36px; }
+  .subpage #content main, .post #content main {
+    padding: 17px 28px;
+    float: left;
+    width: 65.64%;
+    box-sizing: border-box; }
+    .subpage #content main p, .post #content main p {
+      margin-bottom: 1rem;
+      font-size: 1rem;
+      color: #777; }
+  .subpage #content aside, .post #content aside {
+    float: right;
+    width: 31.28%;
+    box-sizing: border-box;
+    padding-right: 28px; }
+    .subpage #content aside h2, .post #content aside h2 {
+      border-bottom: 2px solid #1e73be;
+      padding-bottom: 4px;
+      color: #2C2C2C;
+      font-size: 18px;
+      float: left;
+      margin: 23px 28px 23px 0; }
+    .subpage #content aside ul, .post #content aside ul {
+      clear: both; }
+      .subpage #content aside ul li, .post #content aside ul li {
+        margin-bottom: 4px;
+        line-height: 2;
+        border-bottom: 1px dotted #777;
+        list-style-type: square;
+        list-style-position: inside;
+        color: #909294; }
+        .subpage #content aside ul li a, .post #content aside ul li a {
+          color: #909294; }
+          .subpage #content aside ul li a:hover, .post #content aside ul li a:hover {
+            color: #1e73be; }
+
 header {
   padding-top: 10px;
   margin: 0 28px; }
@@ -198,9 +241,9 @@ footer {
       color: #909294; }
     footer section a[href^="mailto:"] {
       color: #1e73be; }
-  footer #aktualności ul {
+  footer .aktualności ul {
     width: 80%; }
-    footer #aktualności ul li {
+    footer .aktualności ul li {
       margin-bottom: 4px;
       line-height: 2;
       border-bottom: 1px dotted #777;
