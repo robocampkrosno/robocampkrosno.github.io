@@ -12,7 +12,7 @@ description: >
     Akademia Robotyki Lego. Robocamp Krosno. 
 logo: "/assets/images/robocamp_logo.png"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://chineseantiquebuyers.github.io" # the base hostname & protocol for your site
+url: "http://robocampkrosno.github.io" # the base hostname & protocol for your site
 
 name: 'Robocamp Krosno'
 bio: >
