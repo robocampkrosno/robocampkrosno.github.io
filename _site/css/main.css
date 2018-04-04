@@ -248,3 +248,10 @@ footer {
       line-height: 2;
       border-bottom: 1px dotted #777;
       list-style-type: square; }
+  footer p {
+    text-align: center;
+    padding-bottom: 17px; }
+    footer p a {
+      color: #777; }
+  footer a img {
+    margin-top: 48px; }

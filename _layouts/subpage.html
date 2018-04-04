@@ -20,40 +20,8 @@ layout: compress
             </ul>
         </aside>
     </article>
-    <footer>
-        <section>
-            <h2>Akademia robotyki LEGO</h2>
-            <ul>
-                <li>ul. Czachowskiego 22A</li>
-                <li>tel. 606 643 098</li>
-                <li>tel. 606 230 932</li>
-                <li>e-mail: <a href='mailto:kontakt@robocamp.radom.pl'>kontakt@robocamp.radom.pl</a></li>
-            </ul>
-        </section>
-        <section class="aktualności">
-            <h2>Aktualności</h2>
-            <ul>
-            {% for post in site.posts limit:5 %}
-                <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-            {% endfor %}
-            </ul>
-        </section>
-        <section>
-            <h2>Właściciel Akademii</h2>
-            <ul>
-                <li>G18 Paulina Szczepaniak</li>
-                <li>ul. Garbarska 18</li>
-                <li>26-600 Radom</li>
-                <li>NIP 796 150 05 81</li>
-                <li>Konto: Idea Bank</li>
-                <li>69 1950 0001 2006 0709 6765 0002</li>
-            </ul>
-        </section>
-      <a href="/">
-          <img src="{{ site.baseurl }}{{ site.logo | replace: 'robocamp_logo.png', 'robocamp_logo_footer.png' }}" width='200' height='81' />
-      </a>
-    {% include analytics.html %}
-    </footer>
+    {% include footer.html %}
+
     <script src="/js/init.js"></script>
     {% include analytics.html %}
   </body>
