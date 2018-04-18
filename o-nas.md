@@ -11,10 +11,10 @@ City Camp t:o niezwykłe zajęcia, na których dzieci nauczą się budować nowo
 Wspólnie zbudujemy m.in. dźwig, samolot i wóz strażacki, a następnie zaprogramujemy je, aby jak najlepiej sprawdzały się w swoich rolach.
 
 <div class="videoWrapper">
-<iframe width="560" height="349" src="http://www.youtube.com/embed/_vpl55at4uA?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="349" src="https://www.youtube.com/embed/_vpl55at4uA?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="videoWrapper">
-<iframe width="560" height="349" src="http://www.youtube.com/embed/cEgQY8SvrgU?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="349" src="https://www.youtube.com/embed/cEgQY8SvrgU?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <h2>City Camp Mindstorm EV3</h2>
@@ -38,7 +38,7 @@ Potem wspólnie zbudujemy roboty na ich podstawie i postaramy się, aby sprawnie
 
 
 <div class="videoWrapper">
-<iframe width="560" height="349" src="http://www.youtube.com/embed/ZBC6nWSQL7s?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="349" src="https://www.youtube.com/embed/ZBC6nWSQL7s?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="videoWrapper">
 <iframe width="560" height="349" src="https://www.youtube.com/embed/diplXZ6YhEs?list=PL7C4C68970BC0EBF5?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
@@ -54,10 +54,10 @@ Na zajęciach poznajemy historię odkrywania kosmosu, wynalazki które przyczyni
 
 Popuszczamy również wodze fantazji i inspirując się znanymi filmami zastanawiamy się czego jeszcze nie odkryto.
 <div class="videoWrapper">
-<iframe width="560" height="349" src="http://www.youtube.com/embed/_vpl55at4uA?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="349" src="https://www.youtube.com/embed/_vpl55at4uA?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="videoWrapper">
-<iframe width="560" height="349" src="http://www.youtube.com/embed/z8tuzj9Yp8w?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="349" src="https://www.youtube.com/embed/z8tuzj9Yp8w?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
 </div>
 <div class="videoWrapper">
 <iframe width="560" height="349" src="https://www.youtube.com/embed/0kYdq94s8ds?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
