@@ -42,7 +42,7 @@ a {
   text-decoration: none; }
 
 html {
-  background-color: #feb240; }
+  background-color: pink; }
 
 body {
   font-family: 'Arial', sans-serif;
@@ -70,6 +70,13 @@ body {
     float: left;
     width: 65.64%;
     box-sizing: border-box; }
+    .subpage #content main h2, .subpage #content main h3, .post #content main h2, .post #content main h3 {
+      color: #2C2C2C; }
+    .subpage #content main h2, .post #content main h2 {
+      font-size: 23px;
+      line-height: 36px; }
+    .subpage #content main h3, .post #content main h3 {
+      font-size: 17px; }
     .subpage #content main p, .post #content main p {
       margin-bottom: 1rem;
       font-size: 1rem;
@@ -110,44 +117,25 @@ nav {
   float: right; }
   nav ul li {
     display: inline; }
-    nav ul li.strona_główna a {
-      background-color: #dce7fb;
-      color: #777777; }
-    nav ul li.aktualności a {
-      background-color: #F879A9;
-      color: #2c2c2c; }
-    nav ul li.galeria a {
-      background-color: #F33534;
-      color: #2c2c2c; }
-    nav ul li.kontakt a {
-      background-color: #FCFE76;
-      color: #2c2c2c; }
-    nav ul li.o_nas a {
-      background-color: #A2C80D;
-      color: #2c2c2c; }
-    nav ul li.oferta a {
-      background-color: #FEAC01;
-      color: #2c2c2c; }
-    nav ul li.rezerwacje_on-line a {
-      background-color: #46D8F6;
-      color: #2c2c2c; }
     nav ul li a {
-      line-height: 20px;
+      line-height: 44px;
       height: 68px;
       padding: 20px 15px 0 15px;
       text-align: center;
       float: left;
-      font-family: 'Andika', sans-serif;
+      font-family: 'Comic Sans MS', sans-serif;
       text-decoration: none;
       color: #2c2c2c;
       font-size: 1rem; }
+      nav ul li a:hover {
+        color: #1e73be; }
 
-#slideshow {
+.page.default .videoWrapper {
   position: relative;
-  clear: both;
-  margin: 0 28px; }
-  #slideshow img {
-    width: 100%; }
+  padding-bottom: 56.25%;
+  margin-top: 90px;
+  height: 0;
+  margin-bottom: 0; }
 
 #info {
   background-color: #1e73be;
@@ -255,3 +243,29 @@ footer {
       color: #777; }
   footer a img {
     margin-top: 48px; }
+
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  /* 16:9 */
+  padding-top: 25px;
+  height: 0;
+  margin-bottom: 23px; }
+
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; }
+
+table tr {
+  border-bottom: 1px solid; }
+table th {
+  font-weight: bold;
+  padding-bottom: 12px; }
+table .nazwa {
+  text-align: left; }
+table td {
+  text-align: center;
+  line-height: 49px; }

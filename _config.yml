@@ -6,17 +6,17 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Akademia Robotyki Lego - Robocamp Krosno  +48 515 777 883 
+title: Pracownia robotyki Lego - Robocamp Krosno  +48 515 777 883 
 email: not_yet@email.com
 description: >
-    Akademia Robotyki Lego. Robocamp Krosno. 
+    Pracownia robotyki Lego. Robocamp Krosno. 
 logo: "/assets/images/robocamp_logo.png"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://robocampkrosno.github.io" # the base hostname & protocol for your site
 
 name: 'Robocamp Krosno'
 bio: >
-    Akademia Robotyki Lego. Robocamp Krosno 
+    Pracownia robotyki Lego. Robocamp Krosno 
 author_image: "/assets/images/author.jpg"
 twitter_username: robocampkrosno
 github_username:  robocampkrosno

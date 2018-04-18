@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Akademia Robotyki Lego - Robocamp Krosno  +48 515 777 883</title>
-    <description>Akademia Robotyki Lego. Robocamp Krosno. 
+    <title>Pracownia robotyki Lego - Robocamp Krosno  +48 515 777 883</title>
+    <description>Pracownia robotyki Lego. Robocamp Krosno. 
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 04 Apr 2018 15:26:39 +0200</pubDate>
-    <lastBuildDate>Wed, 04 Apr 2018 15:26:39 +0200</lastBuildDate>
+    <pubDate>Wed, 18 Apr 2018 18:22:24 +0200</pubDate>
+    <lastBuildDate>Wed, 18 Apr 2018 18:22:24 +0200</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>

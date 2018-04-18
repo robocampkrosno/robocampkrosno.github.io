@@ -4,18 +4,64 @@ title: O nas
 permalink: /o-nas/
 ---
 
-<img src="/assets/images/{{ page.title | downcase | replace: " ", "-" }}.jpg" />
+<h2>City Camp</h2>
 
-Akademia robotyki LEGO® to jedyne miejsce w Radomiu, gdzie dzieci mogą spędzić wyjątkowy czas wypełniony po brzegi klimatem klocków LEGO®. Istotą zabawy klockami Lego® jest czerpanie przyjemności, pobudzanie wrodzonej kreatywności i tworzenie dzieł rozwijających wyobraźnię dziecka. U nas na powierzchni ponad 300 m2 czeka na wszystkich mnóstwo atrakcji.
+City Camp t:o niezwykłe zajęcia, na których dzieci nauczą się budować nowoczesne maszyny, poznając przy tym zasady ich działania i odkrywając fascynujący świat nauki. 
 
-Do dyspozycji gości oraz członków Akademii Robotyki LEGO® są:
+Wspólnie zbudujemy m.in. dźwig, samolot i wóz strażacki, a następnie zaprogramujemy je, aby jak najlepiej sprawdzały się w swoich rolach.
 
-– dwie przestronne, wyposażone w nowoczesny sprzęt sale dydaktyczne, w których odbywają się cotygodniowe zajęcia z robotyki metodą RoboCAMP. Najwyższej jakości zestawy edukacyjne LEGO® WeDo i Lego® Mindstorms EV3 wraz z nowoczesnym wyposażeniem pozwalają na prowadzenie zajęć zgodnie ze wszystkimi wysokimi wymaganiami twórców metody RoboCAMP.
+<div class="videoWrapper">
+<iframe width="560" height="349" src="http://www.youtube.com/embed/_vpl55at4uA?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="videoWrapper">
+<iframe width="560" height="349" src="http://www.youtube.com/embed/cEgQY8SvrgU?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
+</div>
 
-– miejsce przeznaczone na salę zabaw klockami LEGO®, stworzone z myślą o wszystkich lego-maniakach w wieku od 3 do 103 lat. Mogą oni korzystać tu z kilkudziesięciu tysięcy klocków LEGO® oraz z wielu kompletnych zestawów wraz z instrukcjami do układania wybranych modeli.
+<h2>City Camp Mindstorm EV3</h2>
+City Camp to kurs dla młodych inżynierów, podczas którego odkrywamy sekrety nowoczesnego przemysłu i poznajemy roboty, bez których nasze życie byłoby dużo bardziej skomplikowane.
 
-– miejsce, w którym w każdy weekend można zorganizować tematyczne przyjęcie dla swojego dziecka. Urodziny w Akademii robotyki LEGO to niezapomniane wrażenia dla młodych jubilatów i ich gości! Czas wypełniony jest konkursami i zabawami przeprowadzanymi przez doświadczonych animatorów. Jednym z punktów urodzin jest budowanie konstrukcji z klocków LEGO i programowanie ich. Wszystkie atrakcje zapewnią niezapomniane wspomnienia dla uczestników imprezy!
+W jego trakcie zgłębiamy tajniki najbardziej innowacyjnych rozwiązań technicznych i wspólnie budujemy roboty, które doskonale je obrazują. Wspólnie budujemy m. in. portowego żurawia, podnośnik, czy automatyczny dystrybutor i sprawdzamy na jakiej zasadzie działają.
 
-– sala, w której odbywają się warsztaty dla szkół podstawowych i gimnazjów. Nauczyciele chcący urozmaicić swoje lekcje mogą wraz z uczniami odwiedzić Akademię robotyki. Po burzy mózgów wspomaganej multimedialną prezentacją dzieci zbudują i zaprogramują komputerowo modele z klocków dostosowane do wybranego tematu lekcji. Dzięki temu świetnie zrozumieją zagadki otaczającego świata.
+<div class="videoWrapper">
+<iframe width="560" height="349" src="https://www.youtube.com/embed/cBpowHDFycE?list=PL7C4C68970BC0EBF5?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="videoWrapper">
+<iframe width="560" height="349" src="https://www.youtube.com/embed/vfULWYcATno?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
+</div>
 
-– wygodne miejsce dla opiekunów, w którym będą oni mogli poczekać, aż dziecko zakończy zabawę. Ten czas najczęściej zaczyna i kończy się słowami dzieci mamo-tato proszę jeszcze chwilkę 
+<h2>Safari Camp</h2>
+Safari Camp to wyjątkowe zajęcia, w trakcie których poznajemy dzieła najdoskonalszego inżyniera wszech czasów, jakim jest Matka Natura!
+
+Przyjrzymy się najróżniejszym zwierzętom z całego świata, w tym gorylowi, żyrafie, czy żółwiowi, zastanawiając się dlaczego wyglądają i zachowują się właśnie tak.
+
+Potem wspólnie zbudujemy roboty na ich podstawie i postaramy się, aby sprawnie imitowały swoje pierwowzory.
+
+
+<div class="videoWrapper">
+<iframe width="560" height="349" src="http://www.youtube.com/embed/ZBC6nWSQL7s?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="videoWrapper">
+<iframe width="560" height="349" src="https://www.youtube.com/embed/diplXZ6YhEs?list=PL7C4C68970BC0EBF5?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="videoWrapper">
+<iframe width="560" height="349" src="https://www.youtube.com/embed/0kYdq94s8ds?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<h2>Star camp</h2>
+StarCAMP to kurs łączący w sobie tematykę związaną z filmami sciencie fiction z obecnym stanem wiedzy na temat kosmosu.
+
+Na zajęciach poznajemy historię odkrywania kosmosu, wynalazki które przyczyniły się do powodzenia misji kosmicznych oraz poznajemy naukowe fakty dotyczące ciał niebieskich i znanego nam wszechświata.
+
+Popuszczamy również wodze fantazji i inspirując się znanymi filmami zastanawiamy się czego jeszcze nie odkryto.
+<div class="videoWrapper">
+<iframe width="560" height="349" src="http://www.youtube.com/embed/_vpl55at4uA?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="videoWrapper">
+<iframe width="560" height="349" src="http://www.youtube.com/embed/z8tuzj9Yp8w?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
+</div>
+<div class="videoWrapper">
+<iframe width="560" height="349" src="https://www.youtube.com/embed/0kYdq94s8ds?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
+
