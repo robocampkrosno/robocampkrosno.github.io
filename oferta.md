@@ -51,13 +51,8 @@ permalink: /oferta/
 </tbody>
 </table>
 
----
 
-layout: subpage
-title: O nas 
-permalink: /o-nas/
----
-
+<h2>Warsztaty</h2>
 <h2>City Camp</h2>
 
 City Camp t:o niezwykłe zajęcia, na których dzieci nauczą się budować nowoczesne maszyny, poznając przy tym zasady ich działania i odkrywając fascynujący świat nauki. 
