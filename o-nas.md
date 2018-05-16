@@ -4,62 +4,9 @@ title: O nas
 permalink: /o-nas/
 ---
 
-<h2>City Camp</h2>
-
-City Camp t:o niezwykłe zajęcia, na których dzieci nauczą się budować nowoczesne maszyny, poznając przy tym zasady ich działania i odkrywając fascynujący świat nauki. 
-
-Wspólnie zbudujemy m.in. dźwig, samolot i wóz strażacki, a następnie zaprogramujemy je, aby jak najlepiej sprawdzały się w swoich rolach.
-
-<div class="videoWrapper">
-<iframe width="560" height="349" src="https://www.youtube.com/embed/_vpl55at4uA?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
-</div>
-<div class="videoWrapper">
-<iframe width="560" height="349" src="https://www.youtube.com/embed/cEgQY8SvrgU?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<h2>Safari Camp</h2>
-Safari Camp to wyjątkowe zajęcia, w trakcie których poznajemy dzieła najdoskonalszego inżyniera wszech czasów, jakim jest Matka Natura!
-
-Przyjrzymy się najróżniejszym zwierzętom z całego świata, w tym gorylowi, żyrafie, czy żółwiowi, zastanawiając się dlaczego wyglądają i zachowują się właśnie tak.
-
-Potem wspólnie zbudujemy roboty na ich podstawie i postaramy się, aby sprawnie imitowały swoje pierwowzory.
-
-
-<div class="videoWrapper">
-<iframe width="560" height="349" src="https://www.youtube.com/embed/ZBC6nWSQL7s?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
-</div>
-<div class="videoWrapper">
-<iframe width="560" height="349" src="https://www.youtube.com/embed/diplXZ6YhEs?list=PL7C4C68970BC0EBF5?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
-</div>
-<div class="videoWrapper">
-<iframe width="560" height="349" src="https://www.youtube.com/embed/0kYdq94s8ds?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<h2>Star Camp</h2>
-StarCAMP to kurs łączący w sobie tematykę związaną z filmami sciencie fiction z obecnym stanem wiedzy na temat kosmosu.
-
-Na zajęciach poznajemy historię odkrywania kosmosu, wynalazki które przyczyniły się do powodzenia misji kosmicznych oraz poznajemy naukowe fakty dotyczące ciał niebieskich i znanego nam wszechświata.
-
-Popuszczamy również wodze fantazji i inspirując się znanymi filmami zastanawiamy się czego jeszcze nie odkryto.
-<div class="videoWrapper">
-<iframe width="560" height="349" src="https://www.youtube.com/embed/_vpl55at4uA?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
-</div>
-<div class="videoWrapper">
-<iframe width="560" height="349" src="https://www.youtube.com/embed/z8tuzj9Yp8w?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
-</div>
-<div class="videoWrapper">
-<iframe width="560" height="349" src="https://www.youtube.com/embed/0kYdq94s8ds?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
-</div>
-
-<h2>City Camp Mindstorm EV3</h2>
-City Camp to kurs dla młodych inżynierów, podczas którego odkrywamy sekrety nowoczesnego przemysłu i poznajemy roboty, bez których nasze życie byłoby dużo bardziej skomplikowane.
-
-W jego trakcie zgłębiamy tajniki najbardziej innowacyjnych rozwiązań technicznych i wspólnie budujemy roboty, które doskonale je obrazują. Wspólnie budujemy m. in. portowego żurawia, podnośnik, czy automatyczny dystrybutor i sprawdzamy na jakiej zasadzie działają.
-
-<div class="videoWrapper">
-<iframe width="560" height="349" src="https://www.youtube.com/embed/cBpowHDFycE?list=PL7C4C68970BC0EBF5?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
-</div>
-<div class="videoWrapper">
-<iframe width="560" height="349" src="https://www.youtube.com/embed/vfULWYcATno?rel=0&hd=1" frameborder="0" allowfullscreen></iframe>
-</div>
-
+<p {text-indent: 20px;p align=”justify”>Uczenie dzieci programowania to coraz silniejsza tendencja na całym świecie. Doświadczenia wielu krajów pokazują, że poznawanie zasad kodowania i języków programowania przynosi doskonałe efekty w edukacji dzieci.</p>
+<p {text-indent: 20px;<p align=”justify”>Nauka programowania to w rzeczywistości długa lista korzyści dla dziecka. Młody człowiek nie tylko poznaje nowe technologie, ale również zaczyna je rozumieć i wykorzystywać do własnych potrzeb. Programowanie to między innymi zdolność analizowania. Kodowanie nie ogranicza się tylko do pisania instrukcji i funkcji, to proces rozważania wielu różnych aspektów, przewidywania skutków użycia określonych rozwiązań. Dzieci uczą się analizowania różnych wariantów wydarzeń, wysnuwania wniosków i precyzowania przesłanek.</p> 
+<p style="align:justify;text-indent:20px;">Zajęcia z kodowania uczą biegłego i twórczego korzystania z technologii cyfrowych, a one są, i z pewnością będą, w przyszłości szeroko wykorzystywane w różnych zawodach. Poza tym nauka kodowania rozwija również kompetencje społeczne, uczy zasad dobrej współpracy, efektywnego rozwiązywania zadań grupowych. Są to umiejętności potrzebne do pracy w każdym zespole i na każdym stanowisku. Dzieci poznają komendy, dzięki którym mogą osiągnąć określony cel, uczą się także, w jaki sposób rozłożyć, duży, złożony problem na szereg małych, mniej skomplikowanych, a tym samym łatwiejszych do rozwiązania. Dzięki programowaniu dzieci dowiadują się, jak podchodzić do problemów i zagadnień oraz jak je analizować, wyrabiają w sobie nawyk poszukiwania lepszych i bardziej wydajnych rozwiązań. Zajęcia wpływają na wszechstronny rozwój dzieci. Zajęcia są tak skonstruowane, aby kształtować podstawy wielu istotnych umiejętności intelektualnych, społecznych, fizycznych i emocjonalnych. Uczą logicznego i matematycznego myślenia, oswajają z naukowym rozumowaniem i rozwiązywaniem naukowych problemów.</p>
+<p {text-indent: 20px;p align=”justify”>Nauka programowania pozwala dzieciom przejść od biernych konsumentów cyfrowych rozwiązań do świadomego ich wykorzystywania. Zajęcia mają charakter ogólnorozwojowy i wpływają pozytywnie na różne sfery funkcjonowania dziecka. Eurostat szacuje, że na naszym rynku brakuje ponad 50 tys. koderów. Uczenie dzieci programowania to inwestowanie w ich zawodową przyszłość.</p>
+<p {text-indent: 20px;p align=”justify”>Pracownia robotyki dostępna jest dla klientów indywidualnych (dzieci od 6-14 lat) oraz instytucjonalnych (w formie warsztatów dla szkół, przedszkoli, kolonii, pół kolonii). Zajęcia przeznaczone są dla dzieci w dwóch grup wiekowych - 6-9 lat (Lego Wedo 2.0) oraz 9-14 (Lego MindstormEV3). Dzieci mogą uczestniczyć w zorganizowanych zajęciach warsztatowych dostępnych w 3 modułach: SafariCamp, CityCamp, StarCamp (w przypadku Lego Wedo 2.0) oraz w 2 modułach w przypadku Lego Mindstorm EV3 bądź też korzystać z udostępnionego sprzętu do samodzielnego programowania, kodowania. Czas trwania zajęć warsztatowych to 90 minut. Oferowane zajęcia z kodowania mają charakter ciągły, dzięki temu dzieci zdobywają kolejne stopnie zaawansowania według sprawdzonych programów edukacyjnych.</p>
+<p {text-indent: 20px;p align=”justify”>Dodatkowo w pracowni robotyki możliwa jest organizacja tematycznych przyjęć urodzinowych.</p>
