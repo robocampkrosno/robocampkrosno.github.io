@@ -3,7 +3,7 @@ layout:subpage
 title: Aktualności
 permalink: /aktualnosci/
 ---
-align:justify
+
      
 <p {text-indent: 20px;p align=”justify”>Uczenie dzieci programowania to coraz silniejsza tendencja na całym świecie. Doświadczenia wielu krajów pokazują, że poznawanie zasad kodowania i języków programowania przynosi doskonałe efekty w edukacji dzieci.</p>
 <p {text-indent: 20px;<p align=”justify”>Nauka programowania to w rzeczywistości długa lista korzyści dla dziecka. Młody człowiek nie tylko poznaje nowe technologie, ale również zaczyna je rozumieć i wykorzystywać do własnych potrzeb. Programowanie to między innymi zdolność analizowania. Kodowanie nie ogranicza się tylko do pisania instrukcji i funkcji, to proces rozważania wielu różnych aspektów, przewidywania skutków użycia określonych rozwiązań. Dzieci uczą się analizowania różnych wariantów wydarzeń, wysnuwania wniosków i precyzowania przesłanek.</p> 
