@@ -52,6 +52,7 @@ permalink: /oferta/
 </table>
 
 ---
+
 layout: subpage
 title: O nas 
 permalink: /o-nas/
