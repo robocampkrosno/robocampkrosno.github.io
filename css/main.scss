@@ -333,3 +333,37 @@ table {
         line-height: 49px;
     }
 }
+
+.tekst {
+ #content {
+        overflow: hidden;
+        h1 {
+            background-color: #1e73be;
+            color: #FFFFFF;
+            font-size: 27px;
+            padding: 17px 28px;
+            line-height: 36px;
+        }
+        main {
+            text-indent: 20px;
+            align: justify;
+	    padding: 17px 28px;
+            float: left;
+            width: 65.64%;
+            box-sizing:border-box;
+            h2,h3 {
+                color: #2C2C2C;
+            }
+            h2 {
+                font-size: 23px;
+                line-height: 36px;
+            }
+            h3 {
+                font-size:17px;
+            }
+            p {
+                margin-bottom: 1rem;
+                font-size: 1rem;
+                color: #777;
+            }
+        }
