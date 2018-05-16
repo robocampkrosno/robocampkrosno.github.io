@@ -1,5 +1,5 @@
 ---
-layout: subpage
+layout: tekst
 title: O nas 
 permalink: /o-nas/
 ---
