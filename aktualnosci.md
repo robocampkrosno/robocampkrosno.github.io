@@ -4,27 +4,10 @@ title: Aktualności
 permalink: /aktualnosci/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac augue libero.
-Fusce ac tempor dolor. Ut est dui, gravida a consequat aliquet, fermentum
-sodales risus. Suspendisse eu arcu id mi ornare facilisis non id nisl. Maecenas
-nec congue arcu, non semper neque. Proin mollis nisl diam, eu ultrices diam
-facilisis et. Integer fringilla lorem quis semper venenatis.
+     
+Firmę założyłam 10.04.2018. Od czerwca 2018 zamierzam otworzyć od podstaw i prowadzić pracownię robotyki oferując zajęcia/kursy programowania w języku Scratch, Python z wykorzystaniem zestawów klocków Lego Wedo 2.0 oraz Lego Mindstorm EV3 na bazie sprawdzonej metody RoboCamp (zakupiona licencja) oraz własnych scenariuszy zajęć.  Firma RoboCamp w 2016 została europejskim laureatem Startup Europe Awards w kategorii: kreatywność. Obecnie ponoszę koszty związane z uruchomieniem pracowni oraz adaptacją lokalu do w/w działalności. Sprzedaż usług (zajęcia/kursy) oraz sprzedaż towarów (sprzedaż akcesoriów Lego oraz napojów, przekąsek dla dzieci) zamierzam rozpocząć w czerwcu 2018.
+Celem mojego przedsięwzięcia jest otwarcie od podstaw pracowni robotyki w celu sprzedaży usług -  organizacja zajęć z programowania i kodowania w języku Scratch i Python dla dzieci z wykorzystaniem zestawów klocków Lego Wedo 2.0 i Lego Mindstorm EV3 na bazie metody RoboCamp. Pracownia robotyki dostępna będzie dla klientów indywidualnych (dzieci od 6-14 lat) oraz instytucjonalnych (w formie warsztatów dla szkół, przedszkoli, koloni, pół koloni).Zajęcia przeznaczone są dla dzieci w dwóch grup wiekowych - 6-9 lat (Lego Wedo 2.0) oraz 9-14 (Lego Mindstorm EV3). Zajęcia realizowane są w formie warsztatów dostępnych w 3 modułach: SafariCamp, CityCamp, StarCamp (w przypadku Lego Wedo 2.0) oraz w 2 modułach w przypadku Lego Mindstorm EV3.  Dzieci mogą uczestniczyć w zorganizowanych zajęciach warsztatowych dostępnych w wymienionych powyżej modułach bądź też korzystać z udostępnionego sprzętu do samodzielnego programowania,kodowania. Dodatkowo w pracowni robotyki możliwa jest organizacja tematycznych przyjęć urodzinowych. W zajęciach warsztatowych może uczestniczyć jednocześnie 16 dzieci (w jednej grupie), w przypadku wejść indywidualnych liczba uczestników może być maksymalnie dwukrotnie większa. Czas trwania zajęć warsztatowych to 90 minut. Zajęcia wpływają na wszechstronny rozwój dzieci. Zajęcia są tak skonstuowane, aby kształtować podstawy wielu istotnych umiejętności intelektualnych, społecznych, fizycznych i emocjonalnych. Uczą logicznego i matematycznego myślenia, oswajają z naukowym rozumowaniem i rozwiązywaniem naukowych problemów. Oferowane przeze mnie zajęcia z kodowania mają charakter ciągły, dzięki temu dzieci zdobywają kolejne stopnie zaawansowania według sprawdzonych programów edukacyjnych.
+Uczenie dzieci programowania to coraz silniejsza tendencja na całym świecie. Doświadczenia wielu krajów pokazują, że poznawanie zasad kodowania i języków programowania przynosi doskonałe efekty w edukacji dzieci. Nauka programowania to w rzeczywistości długa lista korzyści dla dziecka. Młody człowiek nie tylko poznaje nowe technologie, ale również zaczyna je rozumieć i wykorzystywać do własnych potrzeb. Programowanie to między innymi zdolność analizowania. Kodowanie nie ogranicza się tylko do pisania instrukcji i funkcji, to proces rozważania wielu różnych aspektów, przewidywania skutków użycia określonych rozwiązań. Dzieci uczą się analizowania różnych wariantów wydarzeń, wysnuwania wniosków i precyzowania przesłanek. Zajęcia z kodowania uczą biegłego i twórczego korzystania z technologii cyfrowych, a one są, i z pewnością będą, w przyszłości szeroko wykorzystywane w różnych zawodach. Poza tym nauka kodowania rozwija również kompetencje społeczne, uczy zasad dobrej współpracy, efektywnego rozwiązywania zadań grupowych. Są to umiejętności potrzebne do pracy w każdym zespole i na każdym stanowisku. Dzieci poznają komendy, dzięki którym mogą osiągnąć określony cel, uczą się także, w jaki sposób rozłożyć, duży, złożony problem na szereg małych, mniej skomplikowanych, a tym samym łatwiejszych do rozwiązania. Dzięki programowaniu dzieci dowiadują się, jak podchodzić do problemów i zagadnień oraz jak je analizować, wyrabiają w sobie nawyk poszukiwania lepszych i bardziej wydajnych rozwiązań. Nauka programowania pozwala dzieciom przejść od biernych konsumentów cyfrowych rozwiązań do świadomego ich wykorzystywania. Zajęcia mają charakter ogólnorozwojowy i wpływają pozytywnie na różne sfery funkcjonowania dziecka. Eurostat szacuje, że na naszym rynku brakuje ponad 50 tys. koderów. Uczenie dzieci programowania to inwestowanie w ich zawodową przyszłość.  
 
-Aliquam vestibulum purus enim. Sed rhoncus interdum erat id consequat. Nulla
-cursus venenatis massa, quis convallis lacus condimentum vel. Etiam mollis,
-orci ac pharetra commodo, diam lectus hendrerit eros, ac elementum magna augue
-sed tellus. Maecenas molestie, nisi ut sodales scelerisque, purus neque
-imperdiet dui, mollis elementum sem augue vel ipsum. Nulla lacinia arcu at quam
-lobortis, vitae interdum tellus fermentum. Cum sociis natoque penatibus et
-magnis dis parturient montes, nascetur ridiculus mus. Fusce sodales semper erat,
-eu fringilla ligula vulputate id. Maecenas quis libero pellentesque lacus
-egestas vehicula sit amet et neque. Nulla nec facilisis sem. Pellentesque rutrum
-elementum molestie. Quisque eget dui ac quam placerat dictum. Suspendisse quis
-ante placerat, efficitur enim ut, commodo tortor. Etiam consequat, eros quis
-consequat congue, augue mauris molestie libero, sed iaculis lectus enim eu magna.
 
-Etiam sapien dolor, mattis vel feugiat nec, egestas eget risus. Lorem ipsum
-dolor sit amet, consectetur adipiscing elit. Aenean aliquam massa a est porta
- vehicula. Cras eu gravida massa. Integer non sem ac mi ultrices posuere a
- pretium tortor. Mauris vitae varius sem. Praesent faucibus nec felis et dictum.
- Vestibulum lorem velit, laoreet nec vestibulum in, varius nec enim.
+
